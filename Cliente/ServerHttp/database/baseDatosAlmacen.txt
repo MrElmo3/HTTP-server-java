@@ -1,4 +1,3 @@
-1-Producto1-Detalle1-10-100
 2-Producto2-Detalle2-20-200
 3-Producto3-Detalle3-30-300
 4-Producto4-Detalle4-40-400
@@ -90,11 +89,13 @@
 91-Producto91-Detalle91-910-9100
 92-Producto92-Detalle92-920-9200
 93-Producto93-Detalle93-930-9300
-94-Producto94-Detalle94-940-9400
+94-Producto94-Detalle94-800-9400
 95-Producto95-Detalle95-950-9500
 96-Producto96-Detalle96-960-9600
 97-Producto97-Detalle97-970-9700
 98-Producto98-Detalle98-980-9800
 99-Producto99-Detalle99-990-9900
-100-Producto100-Detalle100-1000-10000
+100-Producto100-Detalle100-10-100
 a-b-c-d-e
+123-prueba-cliente-24-2
+b-asd-asd-asd-asd

@@ -168,7 +168,7 @@ class RequestProcessor implements Runnable {
                             .append("</tr>\r\n")
                             .append("<tr>\r\n");
                     try {
-                        FileReader fr = new FileReader("ServerHttp/database/baseDatosVenta.txt");
+                        FileReader fr = new FileReader("Cliente/ServerHttp/database/baseDatosVenta.txt");
                         BufferedReader br = new BufferedReader(fr);
                         String line2;
                         while ((line2 = br.readLine()) != null) {

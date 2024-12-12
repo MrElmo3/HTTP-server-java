@@ -28,8 +28,9 @@ public class Main {
 
         File docroot;
 
+        // /home/komiz/Desktop/FINAL-CONCURRENTE/Servicio_Almacen/ServerHttp/dir
         try {
-            docroot = new File("/home/komiz/Desktop/FINAL-CONCURRENTE/Servicio_Almacen/ServerHttp/dir");
+            docroot = new File("ServerHttp/dir");
         } catch (ArrayIndexOutOfBoundsException ex) {
             System.out.println("Usage: java JHTTP docroot port");
             return;
@@ -38,7 +39,7 @@ public class Main {
         System.out.println("docroot: " + docroot);
         
 
-        int port = 8000;
+        int port = 8001;
 
         try {
             Main webserver = new Main(docroot, port);
